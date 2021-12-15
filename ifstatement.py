@@ -20,7 +20,7 @@ squid_game="nmjlkdg_light"
 if squid_game=="red_light":
     print("elimination")
 elif squid_game=="green_light":
-    print("go")
+    print("continue")
 else:
     print("get eliminated also")
 
@@ -36,7 +36,7 @@ elif climate=="autumn":
 else:
     print("invalid climate")
 
-age=1456876
+age=-1456876
 if age>=9 and age<=18:
     print("energy\ntime\nno money\nlittle thinking")
 elif age>=19 and age<35:
